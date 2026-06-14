@@ -1,0 +1,6 @@
+{
+  "name": "Thermometer Telemetry Dashboard",
+  "description": "Real-time connected thermometer telemetry monitoring platform featuring dynamic thermometer status boxes, interactive SVG temperature trend charts, alarm threshold controls, and comprehensive incident log streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
